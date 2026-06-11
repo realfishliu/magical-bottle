@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: laychenslie
+Implementation-Version: 1.0.0
+Specification-Vendor: laychenslie
+Specification-Title: laychenslie
+Implementation-Timestamp: 2026-06-11T23:31:05+0800
+Specification-Version: 1
+Implementation-Vendor: laychenslie
+
